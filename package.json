@@ -1,0 +1,23 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Develop the web application, which helps to detect disconnections and analyze them to meet organizer and participants, Integrate web application with video conferencing application, Focused on starting conferencing meetings, Measure these kinds of parameters and show them as outputs in the application  Battery percentages %,  Network signal bandwidth and quality,  Background running applications, CPU rate %,  Checking available updates or running updates in video conferencing application,  Generate the attendance reports, Provide proper graphically representation to analyze meetings attendance",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshanHerath/zoom-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshanHerath/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/AshanHerath/zoom-clone#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
