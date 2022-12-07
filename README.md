@@ -1,2 +1,1 @@
-# zoom-clone
-Develop the web application, which helps to detect disconnections and analyze them to meet organizer and participants, Integrate web application with video conferencing application, Focused on starting conferencing meetings, Measure these kinds of parameters and show them as outputs in the application  Battery percentages %,  Network signal bandwidth and quality,  Background running applications, CPU rate %,  Checking available updates or running updates in video conferencing application,  Generate the attendance reports, Provide proper graphically representation to analyze meetings attendance
+
